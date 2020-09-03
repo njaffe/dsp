@@ -117,7 +117,7 @@ How do frequentist and Bayesian statistics compare?
 
 Answer:
 
-Frequentist statistics use models of repeatable events and input data to predict outcomes. Bayesian statistics use models *that can be influenced by priors and thus changed* and inputs to predict outcomes. Frequentist statistics commonly rely on an infinite series of events to determine outcomes, whereas Bayesian statistics  
+Frequentist statistics use models of repeatable events and input data to predict outcomes. Bayesian statistics use models *that can be influenced by priors and thus changed* and inputs to predict outcomes. Frequentist statistics commonly rely on an infinite series of events to determine outcomes, whereas Bayesian statistics does not. 
 
 ---
 

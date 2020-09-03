@@ -6,17 +6,22 @@
 	
 Generating random distribution:
 
-	rando = numpy.random.random(1000)
+	random_dist = numpy.random.random(1000)
 	
 Generating PMF:
 	
-	rando_pmf = thinkstats2.Pmf(rando)
-	thinkplot.Pmf(rando_pmf, linewidth = 0.1)
-	thinkplot.Config(xlabel='Random variate', 	ylabel='PMF')
-Not entirely random.
+	random_dist_pmf = thinkstats2.Pmf(random_dist)
+	thinkplot.Pmf(random_dist_pmf, linewidth = 0.1)
+	thinkplot.Config(xlabel='Random variate', ylabel='PMF')
+
+![](/Users/Noah/Documents/chp4_Q2.png)
+
+Not entirely random!
 
 Generating CDF:
 
-	rando_cdf = thinkstats2.Cdf(rando, label='rando')
-	thinkplot.Cdf(rando_cdf)
-	
+	random_dist_cdf = thinkstats2.Cdf(random_dist)
+	thinkplot.Cdf(random_dist_cdf)
+	thinkplot.Config(xlabel='Random variate', ylabel='CDF')
+
+![](/Users/Noah/Documents/chp4_Q2_b.png)

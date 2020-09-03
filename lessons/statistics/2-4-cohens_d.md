@@ -26,6 +26,8 @@ Function to calculate Cohen's D:
 
 Calculating Cohen's D between first children and others:
 
-	cohen_prglngth = CohenEffectSize(firsts.prglngth, 	others.prglngth)
+	cohen_prglngth = CohenEffectSize(firsts.prglngth, others.prglngth)
 
 	cohen_prglngth
+
+0.028879044654449883

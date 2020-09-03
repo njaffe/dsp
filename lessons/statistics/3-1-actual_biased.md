@@ -19,3 +19,5 @@ Plotting and comparing biased and unbiased PMFs:
 	thinkplot.PrePlot(2)
 	thinkplot.Pmfs([pmf, biased_pmf])
 	thinkplot.Config(xlabel='Class size', ylabel='PMF')
+
+![](/Users/Noah/Documents/chp3_Q1.png)
