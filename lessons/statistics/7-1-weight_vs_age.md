@@ -21,7 +21,7 @@
 	                 axis=[0, 50, 0, 15],
 	                 legend=False)
 
-![Image of scatter plot](/Users/Noah/Documents/chp7_a.png)
+![Image of scatter plot](/Users/Noah/Documents/dsp/lessons/statistics/chp7_a.png)
 
 
 ### Percentiles
@@ -51,7 +51,7 @@ compute the CDF of weight within each (age) group.
 	                 axis=[0, 50, 4, 10],
 	                 legend=True)
 
-![Image of percentile plot](/Users/Noah/Documents/chp7_b.png)
+![Image of percentile plot](/Users/Noah/Documents/dsp/lessons/statistics/chp7_b.png)
 	
 Percentiles of weight for a range of age bins; relationship is roughly linear from ~19 to ~37 years
 
