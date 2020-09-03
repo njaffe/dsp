@@ -14,7 +14,7 @@ Generating PMF:
 	thinkplot.Pmf(random_dist_pmf, linewidth = 0.1)
 	thinkplot.Config(xlabel='Random variate', ylabel='PMF')
 
-![](/Users/Noah/Documents/chp4_Q2.png)
+![image of PMF plot](/Users/Noah/Documents/chp4_Q2.png)
 
 Not entirely random!
 
@@ -24,4 +24,4 @@ Generating CDF:
 	thinkplot.Cdf(random_dist_cdf)
 	thinkplot.Config(xlabel='Random variate', ylabel='CDF')
 
-![](/Users/Noah/Documents/chp4_Q2_b.png)
+![image of CDF plot](/Users/Noah/Documents/chp4_Q2_b.png)
