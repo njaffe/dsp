@@ -31,16 +31,16 @@ Applying function with different sample sizes:
 ### Output:
 
 n: 10
-standard error: 0.8252932257713935 confidence interval: (1.2405093310203616, 3.6032126402347573)
+standard error: 0.8252932257713935 confidence interval: (1.2405093310203616, 3.6032126402347573); 
 
 n: 100
-standard error: 0.21311591747102615 confidence interval: (1.6929427510656287, 2.3818614606331576)
+standard error: 0.21311591747102615 confidence interval: (1.6929427510656287, 2.3818614606331576);
 
 n: 1000
-standard error: 0.0632947517914306 confidence interval: (1.904688620922154, 2.1128176131208556)
+standard error: 0.0632947517914306 confidence interval: (1.904688620922154, 2.1128176131208556);
 
 n: 10000
-standard error: 0.020227281432728696 confidence interval: (1.9668814798255165, 2.0327887588338083)
+standard error: 0.020227281432728696 confidence interval: (1.9668814798255165, 2.0327887588338083);
 
 !['Image of distributions](/Users/Noah/Documents/dsp/lessons/statistics/chp8_q2_distribution.png)
 
